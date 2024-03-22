@@ -9,7 +9,7 @@ This is a starter template for creating a beautiful, customizable documentation 
 After installing Jigsaw, run the following command from your project directory:
 
 ```bash
-./vendor/bin/jigsaw init docs
+./vendor/bin/jigsaw init jigsawboxes/simple-docs-template
 ```
 
 This starter template includes samples of common page types, and comes pre-configured with:
